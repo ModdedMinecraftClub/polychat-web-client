@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="NetworkLibrary">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../polychat/out/artifacts/NetworkLibrary_jar/NetworkLibrary.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

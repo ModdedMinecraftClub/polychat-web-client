@@ -1,0 +1,11 @@
+<form id="chat" action="/message">
+  <input type="text" name="message" id="message">
+  <br>
+  <button type="submit" formmethod="post">Submit</button>
+</form>
+
+<h1>Messages:</h1>
+#foreach($message in $messages)
+$message
+<br>
+#end
